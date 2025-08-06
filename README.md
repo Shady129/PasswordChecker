@@ -13,5 +13,5 @@ A simple C# console application that simulates a secure password checker with:
 - After 3 failed attempts, the account is locked.
 - A support number is displayed for further assistance.
 
-## 🖥️ Screenshot
+
 
